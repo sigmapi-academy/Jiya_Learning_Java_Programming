@@ -1,0 +1,7 @@
+#BlueJ class context
+#Fri Jul 31 20:54:45 IST 2026
+comment0.target=PalindromeOrPerfect
+comment0.text=\r\n  Write a description of class PalindromeOrPerfect here.\r\n  Write a menu driven program to accept a number from the user. \r\n  Check and display whether it is a Palindrome or a Perfect number. \r\n  (a) Palindrome number\: (A number is a Palindrome which when read in \r\n  the reverse order is the same as the original number) \r\n  Example\: 11, 101, 151, etc. \r\n  (b) Perfect number\: (A number is called Perfect if it \r\n  is equal to the sum of its\r\n  factors other than the number itself.) \r\n  Example\: 6 \r\n  1 + 2 + 3 \r\n\r\n @author (your name)\r\n @version (a version number or a date)\r\n
+comment1.params=args
+comment1.target=void main(java.lang.String[])
+numComments=2
