@@ -1,0 +1,11 @@
+#BlueJ class context
+#Tue Oct 27 21:10:31 IST 2026
+comment0.target=Example1
+comment0.text=\r\n Write a description of class Example1 here.\r\n\r\n @author (your name)\r\n @version (a version number or a date)\r\n
+comment1.params=a b
+comment1.target=int add(int, int)
+comment2.params=x y
+comment2.target=void displaySum(int, int)
+comment3.params=args
+comment3.target=void main(java.lang.String[])
+numComments=4
