@@ -12,7 +12,7 @@ public class Example1
     //Method declaration
     public static int add(int a, int b){
         int sum = a+b; //method body
-        displaySum(a, b);
+        // displaySum(a, b);
         return sum; //return statement
     }
     
